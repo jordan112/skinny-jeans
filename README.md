@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="skinny-jeans logo" width="200" />
+</p>
+
 # skinny-jeans 👖
 
 **Squeeze your context into skinny jeans.**
