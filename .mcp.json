@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "skinny-jeans": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "transportType": "stdio"
+    }
+  }
+}

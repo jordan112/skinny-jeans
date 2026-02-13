@@ -1,0 +1,11 @@
+{
+  "context": {
+    "task": "Our favorite hikes together",
+    "location": "Boulder"
+  },
+  "hikes": [
+    {"id": 1, "name": "Blue Lake Trail", "distanceKm": 7.5, "difficulty": "moderate"},
+    {"id": 2, "name": "Ridge Overlook", "distanceKm": 9.2, "difficulty": "hard"},
+    {"id": 3, "name": "Meadow Loop", "distanceKm": 3.1, "difficulty": "easy"}
+  ]
+}
